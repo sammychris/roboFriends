@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was created for learning purpose, while on my way of becoming senior developer. It's an App that displays random robot pictures using Api.
+This project was created for learning purpose, while on my path of becoming senior developer. It's an App that displays random robot pictures using Api.
 
 ## Features
 
@@ -26,6 +26,7 @@ This project was created for learning purpose, while on my way of becoming senio
 
 ## Dependencies
 
+- Gh-Pages
 - React
 - React-DOM
 - React-Redux
