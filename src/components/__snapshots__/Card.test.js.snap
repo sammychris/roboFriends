@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expect to make a snapshot to component 1`] = `ShallowWrapper {}`;
